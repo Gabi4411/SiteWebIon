@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "title": "Musterbau – Innenausbau & Renovierung"
+  },
+  "nav": {
+    "home": "Start",
+    "contact": "Kontakt",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "language": "Sprache wählen",
+    "logoAlt": "Logo – zur Startseite"
+  },
+  "hero": {
+    "eyebrow": "Innenausbau & Renovierung",
+    "title": "Saubere Arbeit. Faire Preise. Termine, die halten.",
+    "subtitle": "Platzhaltertext: Vom Parkett bis zur fertig gestrichenen Wand – wir renovieren Ihr Zuhause mit Sorgfalt und hinterlassen die Baustelle besenrein.",
+    "ctaQuote": "Angebot anfordern",
+    "ctaServices": "Leistungen ansehen",
+    "imageAlt": "Platzhalter – Foto eines fertigen Projekts",
+    "badge": "Kostenlose Besichtigung"
+  },
+  "services": {
+    "title": "Unsere Leistungen",
+    "subtitle": "Platzhaltertext: Alles aus einer Hand – ein Ansprechpartner für Ihr gesamtes Projekt.",
+    "learnMore": "Mehr erfahren",
+    "ctaTitle": "Etwas anderes geplant?",
+    "ctaText": "Platzhaltertext: Erzählen Sie mir von Ihrem Projekt – ich finde eine Lösung.",
+    "floors": {
+      "title": "Holzböden",
+      "short": "Parkett, Dielen und Laminat – verlegt, geschliffen und versiegelt.",
+      "description": "Platzhaltertext: Wir verlegen Parkett, Massivholzdielen und Laminat auf jedem Untergrund. Dazu gehören die Vorbereitung des Estrichs, Trittschalldämmung, Sockelleisten und auf Wunsch das Abschleifen und Versiegeln alter Böden.",
+      "features": ["Parkett & Massivholzdielen", "Laminat & Vinyl", "Abschleifen & Versiegeln", "Sockelleisten & Übergänge"]
+    },
+    "tiles": {
+      "title": "Fliesen",
+      "short": "Bad, Küche und Böden – präzise gefliest, sauber verfugt.",
+      "description": "Platzhaltertext: Ob Badsanierung, Küchenspiegel oder großformatige Bodenfliesen – wir arbeiten millimetergenau, dichten fachgerecht ab und beraten Sie bei Material und Verlegemuster.",
+      "features": ["Wand- & Bodenfliesen", "Großformate", "Abdichtung im Bad", "Naturstein & Mosaik"]
+    },
+    "plaster": {
+      "title": "Verputzen",
+      "short": "Glatte Wände und Decken – Innenputz in jeder Qualitätsstufe.",
+      "description": "Platzhaltertext: Wir verputzen Wände und Decken mit Kalk-, Gips- oder Zementputz, spachteln bis zur Qualitätsstufe Q4 und bereiten alles perfekt für Farbe oder Tapete vor.",
+      "features": ["Gips- & Kalkputz", "Spachteln bis Q4", "Dekorputz", "Ausbesserungen"]
+    },
+    "painting": {
+      "title": "Malerarbeiten",
+      "short": "Frische Farbe innen – sauber abgeklebt, gleichmäßig gestrichen.",
+      "description": "Platzhaltertext: Wir streichen Wände, Decken, Türen und Heizkörper, tapezieren und beraten Sie bei der Farbwahl. Möbel und Böden werden sorgfältig geschützt.",
+      "features": ["Wände & Decken", "Tapezieren", "Lackierarbeiten", "Farbberatung"]
+    },
+    "drywall": {
+      "title": "Trockenbau",
+      "short": "Neue Wände, abgehängte Decken und Dachausbau.",
+      "description": "Platzhaltertext: Mit Trockenbau teilen wir Räume neu auf, bauen Dachgeschosse aus, hängen Decken ab und integrieren Beleuchtung – schnell, sauber und ohne lange Trocknungszeiten.",
+      "features": ["Trennwände", "Abgehängte Decken", "Dachausbau", "Schall- & Wärmedämmung"]
+    }
+  },
+  "about": {
+    "eyebrow": "Über mich",
+    "title": "Handwerk mit Verantwortung",
+    "text": "Platzhaltertext: Seit vielen Jahren renoviere ich Wohnungen und Häuser. Ich plane jedes Projekt persönlich, halte vereinbarte Termine ein und sage Ihnen ehrlich, was sinnvoll ist – und was nicht.",
+    "imageAlt": "Platzhalter – Porträtfoto",
+    "stats": [
+      { "value": "15+", "label": "Jahre Erfahrung" },
+      { "value": "300+", "label": "Abgeschlossene Projekte" },
+      { "value": "100%", "label": "Festpreis-Angebote" }
+    ]
+  },
+  "process": {
+    "eyebrow": "Ablauf",
+    "title": "So arbeite ich",
+    "steps": [
+      { "title": "Beratung", "text": "Platzhaltertext: Wir besprechen Ihre Wünsche vor Ort – kostenlos und unverbindlich." },
+      { "title": "Angebot", "text": "Platzhaltertext: Sie erhalten ein klares Festpreisangebot mit Zeitplan." },
+      { "title": "Ausführung", "text": "Platzhaltertext: Sauber, pünktlich und mit hochwertigen Materialien." },
+      { "title": "Übergabe", "text": "Platzhaltertext: Gemeinsame Abnahme, die Baustelle bleibt besenrein." }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Referenzen",
+    "title": "Aktuelle Projekte",
+    "subtitle": "Platzhaltertext: Ein Auszug aus unseren letzten Arbeiten.",
+    "imageAlt": "Platzhalter – Projektfoto {{n}}",
+    "close": "Schließen",
+    "previous": "Vorheriges Bild",
+    "next": "Nächstes Bild"
+  },
+  "servicePage": {
+    "breadcrumb": "Leistungen",
+    "included": "Das gehört dazu",
+    "gallery": "Beispiele unserer Arbeit",
+    "ctaTitle": "Interesse an {{service}}?",
+    "ctaText": "Schreiben Sie uns kurz, worum es geht – Sie erhalten schnell eine Antwort.",
+    "otherServices": "Weitere Leistungen"
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Lassen Sie uns über Ihr Projekt sprechen",
+    "subtitle": "Platzhaltertext: Füllen Sie das Formular aus oder rufen Sie direkt an. Ich melde mich innerhalb von 24 Stunden.",
+    "call": "Anrufen",
+    "write": "E-Mail schreiben",
+    "whatsapp": "WhatsApp",
+    "area": "Einsatzgebiet: Platzhalter-Stadt und Umgebung (50 km)",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "phone": "Telefon (optional)",
+      "service": "Leistung",
+      "servicePlaceholder": "Bitte wählen",
+      "other": "Sonstiges",
+      "message": "Ihre Nachricht",
+      "messagePlaceholder": "Was soll gemacht werden? Ungefähre Fläche, Wunschtermin …",
+      "submit": "Anfrage senden",
+      "sending": "Wird gesendet …",
+      "success": "Vielen Dank! Ihre Anfrage ist angekommen – ich melde mich in Kürze.",
+      "error": "Das hat leider nicht geklappt. Bitte versuchen Sie es erneut oder rufen Sie an.",
+      "demoNotice": "Demo-Modus: Das Formular sendet noch keine echten E-Mails.",
+      "required": "Bitte ausfüllen.",
+      "invalidEmail": "Bitte eine gültige E-Mail-Adresse eingeben.",
+      "subject": "Neue Anfrage über die Website"
+    }
+  },
+  "footer": {
+    "tagline": "Innenausbau & Renovierung – sauber, pünktlich, zuverlässig.",
+    "services": "Leistungen",
+    "contact": "Kontakt",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "text": "Die gesuchte Seite existiert nicht.",
+    "back": "Zur Startseite"
+  }
+}

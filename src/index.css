@@ -1,0 +1,27 @@
+@import 'tailwindcss';
+
+/* Modern Industrial palette — see CLAUDE.md */
+@theme {
+  --color-background: #f4f4f2;
+  --color-surface: #ffffff;
+  --color-graphite: #2b2d31;
+  --color-graphite-light: #3a3d42;
+  --color-graphite-dark: #1c1d20;
+  --color-muted: #6b6e75;
+  --color-accent: #f2b705;
+  --color-accent-dark: #c99700;
+  --font-sans: 'Manrope', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-background font-sans text-graphite antialiased;
+  }
+  /* Keep anchored sections clear of the sticky top bar */
+  section[id] {
+    scroll-margin-top: 5rem;
+  }
+}

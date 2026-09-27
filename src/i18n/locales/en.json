@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "title": "Musterbau – Interior finishing & renovation"
+  },
+  "nav": {
+    "home": "Home",
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Choose language",
+    "logoAlt": "Logo – go to home page"
+  },
+  "hero": {
+    "eyebrow": "Interior finishing & renovation",
+    "title": "Clean work. Fair prices. Deadlines that hold.",
+    "subtitle": "Placeholder text: From parquet to a freshly painted wall – we renovate your home with care and leave the site spotless.",
+    "ctaQuote": "Request a quote",
+    "ctaServices": "View services",
+    "imageAlt": "Placeholder – photo of a finished project",
+    "badge": "Free on-site visit"
+  },
+  "services": {
+    "title": "Our services",
+    "subtitle": "Placeholder text: Everything from a single source – one contact person for your whole project.",
+    "learnMore": "Learn more",
+    "ctaTitle": "Something else in mind?",
+    "ctaText": "Placeholder text: Tell me about your project – I'll find a solution.",
+    "floors": {
+      "title": "Wooden floors",
+      "short": "Parquet, planks and laminate – laid, sanded and sealed.",
+      "description": "Placeholder text: We lay parquet, solid wood planks and laminate on any subfloor. This includes screed preparation, sound insulation, skirting boards and, on request, sanding and sealing old floors.",
+      "features": ["Parquet & solid wood planks", "Laminate & vinyl", "Sanding & sealing", "Skirting & transitions"]
+    },
+    "tiles": {
+      "title": "Tiles",
+      "short": "Bathrooms, kitchens and floors – precisely tiled, cleanly grouted.",
+      "description": "Placeholder text: Whether it's a bathroom renovation, a kitchen backsplash or large-format floor tiles – we work to the millimetre, waterproof properly and advise you on materials and patterns.",
+      "features": ["Wall & floor tiles", "Large formats", "Bathroom waterproofing", "Natural stone & mosaic"]
+    },
+    "plaster": {
+      "title": "Plastering",
+      "short": "Smooth walls and ceilings – interior plaster at every finish level.",
+      "description": "Placeholder text: We plaster walls and ceilings with lime, gypsum or cement plaster, skim to a perfect finish and prepare everything for paint or wallpaper.",
+      "features": ["Gypsum & lime plaster", "Fine skim coating", "Decorative plaster", "Repairs"]
+    },
+    "painting": {
+      "title": "Painting",
+      "short": "Fresh colour indoors – carefully masked, evenly painted.",
+      "description": "Placeholder text: We paint walls, ceilings, doors and radiators, hang wallpaper and help you choose colours. Furniture and floors are carefully protected.",
+      "features": ["Walls & ceilings", "Wallpapering", "Lacquering", "Colour advice"]
+    },
+    "drywall": {
+      "title": "Drywall",
+      "short": "New walls, suspended ceilings and loft conversions.",
+      "description": "Placeholder text: With drywall we re-divide rooms, convert lofts, install suspended ceilings and integrate lighting – fast, clean and without long drying times.",
+      "features": ["Partition walls", "Suspended ceilings", "Loft conversions", "Sound & thermal insulation"]
+    }
+  },
+  "about": {
+    "eyebrow": "About me",
+    "title": "Craftsmanship with responsibility",
+    "text": "Placeholder text: I have been renovating flats and houses for many years. I plan every project personally, keep to agreed dates and tell you honestly what makes sense – and what doesn't.",
+    "imageAlt": "Placeholder – portrait photo",
+    "stats": [
+      { "value": "15+", "label": "Years of experience" },
+      { "value": "300+", "label": "Completed projects" },
+      { "value": "100%", "label": "Fixed-price quotes" }
+    ]
+  },
+  "process": {
+    "eyebrow": "Process",
+    "title": "How I work",
+    "steps": [
+      { "title": "Consultation", "text": "Placeholder text: We discuss your wishes on site – free and without obligation." },
+      { "title": "Quote", "text": "Placeholder text: You get a clear fixed-price quote with a schedule." },
+      { "title": "Execution", "text": "Placeholder text: Clean, punctual and with quality materials." },
+      { "title": "Handover", "text": "Placeholder text: We inspect together, and the site is left clean." }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Portfolio",
+    "title": "Recent projects",
+    "subtitle": "Placeholder text: A selection of our latest work.",
+    "imageAlt": "Placeholder – project photo {{n}}",
+    "close": "Close",
+    "previous": "Previous image",
+    "next": "Next image"
+  },
+  "servicePage": {
+    "breadcrumb": "Services",
+    "included": "What's included",
+    "gallery": "Examples of our work",
+    "ctaTitle": "Interested in {{service}}?",
+    "ctaText": "Tell us briefly what you need – you'll get a quick reply.",
+    "otherServices": "Other services"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's talk about your project",
+    "subtitle": "Placeholder text: Fill in the form or call directly. I'll get back to you within 24 hours.",
+    "call": "Call",
+    "write": "Send e-mail",
+    "whatsapp": "WhatsApp",
+    "area": "Service area: Placeholder City and surroundings (50 km)",
+    "form": {
+      "name": "Name",
+      "email": "E-mail",
+      "phone": "Phone (optional)",
+      "service": "Service",
+      "servicePlaceholder": "Please choose",
+      "other": "Other",
+      "message": "Your message",
+      "messagePlaceholder": "What needs doing? Approximate area, preferred date …",
+      "submit": "Send request",
+      "sending": "Sending …",
+      "success": "Thank you! Your request has arrived – I'll be in touch shortly.",
+      "error": "Sorry, that didn't work. Please try again or give me a call.",
+      "demoNotice": "Demo mode: the form doesn't send real e-mails yet.",
+      "required": "Please fill this in.",
+      "invalidEmail": "Please enter a valid e-mail address.",
+      "subject": "New request from the website"
+    }
+  },
+  "footer": {
+    "tagline": "Interior finishing & renovation – clean, punctual, reliable.",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you are looking for doesn't exist.",
+    "back": "Back to home"
+  }
+}

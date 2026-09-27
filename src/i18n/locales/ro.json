@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "title": "Musterbau – Amenajări interioare & renovări"
+  },
+  "nav": {
+    "home": "Acasă",
+    "contact": "Contact",
+    "openMenu": "Deschide meniul",
+    "closeMenu": "Închide meniul",
+    "language": "Alege limba",
+    "logoAlt": "Logo – către pagina principală"
+  },
+  "hero": {
+    "eyebrow": "Amenajări interioare & renovări",
+    "title": "Lucru curat. Prețuri corecte. Termene respectate.",
+    "subtitle": "Text placeholder: De la parchet până la peretele proaspăt vopsit – renovăm casa ta cu grijă și lăsăm totul curat în urmă.",
+    "ctaQuote": "Cere o ofertă",
+    "ctaServices": "Vezi serviciile",
+    "imageAlt": "Placeholder – fotografie a unui proiect finalizat",
+    "badge": "Evaluare gratuită"
+  },
+  "services": {
+    "title": "Serviciile noastre",
+    "subtitle": "Text placeholder: Totul dintr-o singură sursă – o singură persoană de contact pentru întregul proiect.",
+    "learnMore": "Află mai mult",
+    "ctaTitle": "Ai altceva în plan?",
+    "ctaText": "Text placeholder: Povestește-mi despre proiectul tău – găsim o soluție.",
+    "floors": {
+      "title": "Parchet din lemn",
+      "short": "Parchet, dușumea și laminat – montat, șlefuit și lăcuit.",
+      "description": "Text placeholder: Montăm parchet, dușumea din lemn masiv și laminat pe orice suport. Includem pregătirea șapei, izolația fonică, plintele și, la cerere, șlefuirea și lăcuirea pardoselilor vechi.",
+      "features": ["Parchet & dușumea masivă", "Laminat & vinil", "Șlefuire & lăcuire", "Plinte & profile de trecere"]
+    },
+    "tiles": {
+      "title": "Faianță & gresie",
+      "short": "Baie, bucătărie și pardoseli – placate precis, rostuite curat.",
+      "description": "Text placeholder: Fie că e vorba de renovarea băii, de faianța din bucătărie sau de gresie de format mare – lucrăm la milimetru, hidroizolăm corect și te sfătuim la alegerea materialelor.",
+      "features": ["Faianță & gresie", "Formate mari", "Hidroizolație baie", "Piatră naturală & mozaic"]
+    },
+    "plaster": {
+      "title": "Tencuieli",
+      "short": "Pereți și tavane netede – tencuială interioară de calitate.",
+      "description": "Text placeholder: Tencuim pereți și tavane cu tencuială pe bază de var, ipsos sau ciment, gletuim până la finisaj perfect și pregătim totul pentru vopsea sau tapet.",
+      "features": ["Tencuială de ipsos & var", "Gletuire fină", "Tencuială decorativă", "Reparații"]
+    },
+    "painting": {
+      "title": "Zugrăveli",
+      "short": "Culoare nouă în interior – protejat atent, vopsit uniform.",
+      "description": "Text placeholder: Vopsim pereți, tavane, uși și calorifere, aplicăm tapet și te ajutăm să alegi culorile. Mobila și pardoseala sunt protejate cu grijă.",
+      "features": ["Pereți & tavane", "Tapet", "Lăcuiri", "Consultanță culori"]
+    },
+    "drywall": {
+      "title": "Rigips",
+      "short": "Pereți noi, tavane false și mansardări.",
+      "description": "Text placeholder: Cu gips-carton recompartimentăm spații, amenajăm mansarde, montăm tavane false și integrăm iluminatul – rapid, curat și fără timpi lungi de uscare.",
+      "features": ["Pereți despărțitori", "Tavane false", "Mansardări", "Izolație fonică & termică"]
+    }
+  },
+  "about": {
+    "eyebrow": "Despre mine",
+    "title": "Meserie făcută cu responsabilitate",
+    "text": "Text placeholder: De mulți ani renovez apartamente și case. Planific personal fiecare proiect, respect termenele stabilite și îți spun sincer ce merită făcut – și ce nu.",
+    "imageAlt": "Placeholder – fotografie portret",
+    "stats": [
+      { "value": "15+", "label": "Ani de experiență" },
+      { "value": "300+", "label": "Proiecte finalizate" },
+      { "value": "100%", "label": "Oferte cu preț fix" }
+    ]
+  },
+  "process": {
+    "eyebrow": "Etape",
+    "title": "Cum lucrez",
+    "steps": [
+      { "title": "Consultanță", "text": "Text placeholder: Discutăm dorințele tale la fața locului – gratuit și fără obligații." },
+      { "title": "Ofertă", "text": "Text placeholder: Primești o ofertă clară, cu preț fix și calendar." },
+      { "title": "Execuție", "text": "Text placeholder: Curat, punctual și cu materiale de calitate." },
+      { "title": "Predare", "text": "Text placeholder: Recepție împreună, iar spațiul rămâne curat." }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Portofoliu",
+    "title": "Proiecte recente",
+    "subtitle": "Text placeholder: O selecție din lucrările noastre recente.",
+    "imageAlt": "Placeholder – fotografie proiect {{n}}",
+    "close": "Închide",
+    "previous": "Imaginea anterioară",
+    "next": "Imaginea următoare"
+  },
+  "servicePage": {
+    "breadcrumb": "Servicii",
+    "included": "Ce include",
+    "gallery": "Exemple din lucrările noastre",
+    "ctaTitle": "Te interesează {{service}}?",
+    "ctaText": "Scrie-ne pe scurt despre ce e vorba – primești rapid un răspuns.",
+    "otherServices": "Alte servicii"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Hai să vorbim despre proiectul tău",
+    "subtitle": "Text placeholder: Completează formularul sau sună direct. Revin cu un răspuns în maximum 24 de ore.",
+    "call": "Sună",
+    "write": "Trimite e-mail",
+    "whatsapp": "WhatsApp",
+    "area": "Zonă de lucru: Oraș placeholder și împrejurimi (50 km)",
+    "form": {
+      "name": "Nume",
+      "email": "E-mail",
+      "phone": "Telefon (opțional)",
+      "service": "Serviciu",
+      "servicePlaceholder": "Alege",
+      "other": "Altceva",
+      "message": "Mesajul tău",
+      "messagePlaceholder": "Ce trebuie făcut? Suprafața aproximativă, data dorită …",
+      "submit": "Trimite cererea",
+      "sending": "Se trimite …",
+      "success": "Mulțumesc! Cererea ta a ajuns – revin în curând.",
+      "error": "Din păcate nu a funcționat. Te rog încearcă din nou sau sună-mă.",
+      "demoNotice": "Mod demo: formularul nu trimite încă e-mailuri reale.",
+      "required": "Te rog completează.",
+      "invalidEmail": "Te rog introdu o adresă de e-mail validă.",
+      "subject": "Cerere nouă de pe site"
+    }
+  },
+  "footer": {
+    "tagline": "Amenajări interioare & renovări – curat, punctual, de încredere.",
+    "services": "Servicii",
+    "contact": "Contact",
+    "rights": "Toate drepturile rezervate."
+  },
+  "notFound": {
+    "title": "Pagina nu a fost găsită",
+    "text": "Pagina căutată nu există.",
+    "back": "Înapoi la pagina principală"
+  }
+}
