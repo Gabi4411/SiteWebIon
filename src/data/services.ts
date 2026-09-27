@@ -13,6 +13,6 @@ export type ServiceSlug = Service['slug']
 export const imageUrl = (file: string) => `${import.meta.env.BASE_URL}images/${file}`
 
 export const serviceImages = (slug: string) =>
-  [1, 2, 3, 4].map((n) => imageUrl(`${slug}-${n}.svg`))
+  [1, 2, 3, 4].map((n) => imageUrl(`${slug}-${n}.jpg`))
 
 export const findService = (slug: string | undefined) => services.find((s) => s.slug === slug)

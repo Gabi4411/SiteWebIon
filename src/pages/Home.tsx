@@ -54,7 +54,7 @@ export default function Home() {
           </div>
           <div className="relative">
             <img
-              src={imageUrl('hero.svg')}
+              src={imageUrl('hero.jpg')}
               alt={t('hero.imageAlt')}
               className="aspect-[4/3] w-full rounded-2xl object-cover shadow-2xl"
             />
@@ -93,7 +93,7 @@ export default function Home() {
       <section className="bg-surface py-20 sm:py-24">
         <div className="mx-auto grid max-w-7xl items-center gap-12 px-4 sm:px-6 lg:grid-cols-2">
           <img
-            src={imageUrl('about.svg')}
+            src={imageUrl('about.jpg')}
             alt={t('about.imageAlt')}
             loading="lazy"
             className="aspect-[10/11] w-full max-w-lg rounded-2xl object-cover"

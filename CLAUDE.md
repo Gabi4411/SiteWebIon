@@ -110,8 +110,9 @@ Style: lots of whitespace, large photos, rounded corners (8–12px), subtle hove
 - The user's home folder (`/Users/gabimoldovan`) is itself a git repo linked to an unrelated project.
   This project gets its **own, independent** repo: `git init -b main` inside `SiteWebIon/`, no remote
   until the user creates a new, empty GitHub repo. Never commit to or push the home-folder repo.
-- Placeholder photos are generated SVGs in `public/images/` (`<slug>-1..4.svg`, `hero.svg`, `about.svg`).
-  Real photos: keep the same names (or update `serviceImages()` in `data/services.ts` if using .webp/.jpg).
+- Photos in `public/images/` (`<slug>-1..4.jpg`, `hero.jpg`, `about.jpg`) are **Unsplash demo photos** —
+  credits in `public/images/CREDITS.md`. Replace with the owner's real project photos before going live
+  (stock photos presented as "our work" would mislead customers). Keep names, 1400×933 (3:2), < 300 KB.
 - Routing uses HashRouter, so in-page anchors (`href="#services"`) must scroll via JS, not the URL hash.
 - Arrays in locale files (`features`, `steps`, `stats`) are read with `t(key, { returnObjects: true })`.
 - Vite `base` must match the GitHub repo name (e.g. `/SiteWebIon/`) or assets break on GitHub Pages.
